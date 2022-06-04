@@ -1,0 +1,19 @@
+/* This is a single-line comment */
+body{
+  
+  background-color: #F2EBE9;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  height: 7px;
+  width: 5%;
+}
+h1 {
+  color: #66BFBF;
+  margin-left: 20px;
+  text-align: left;
+}
+h3{
+  color:#66BFBF;
+}
